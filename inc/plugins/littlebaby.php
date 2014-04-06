@@ -13,14 +13,14 @@ if(!defined("IN_MYBB"))
 <html><head>
 <title>404 Not Found</title>
 </head><body>
-<h1>Not Found</h1>
+<h1>Did you miss IN_MYBB !</h1>
 </body></html>";
  exit;
 }
 function littlebaby_info()
 {
 	return array(
-        "name"  => "Little Baby DDoS Shield Plugin for MyBB",
+        "name"  => "Little Baby DDoS Shield",
         "description"=> "This php ddos sheild code was written by TweetCoaster And MyBB plugin was developed by Moss",
         "website"        => "http://www.facebook.com/jinxwayne",
         "author"        => "TweetyCoaster,Moss",
