@@ -11,3 +11,8 @@ Little Baby DDoS Shield Plugin for MyBB
    
    Copy inc/plugins/littlebaby.php to ur plugins folder. And go to ur admin panel and active Little baby plugin.
    now go to setting of little baby and fill your email up !
+   
+==========================================================
+
+
+Special & Strongly Credit : TweetyCoaster (Yangon Ethical Hacker Group)
